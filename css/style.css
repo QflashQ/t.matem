@@ -8,10 +8,18 @@ p {
     border-width: 2px;
     border-color: rgb(114, 186, 245);
     border-left: 10px solid rgb(114, 186, 245);
-    margin-right: 70%;
-    padding-right: 0%
+    margin-right: 69%;
+    padding-left: 1%;
 }
   
 span{
     color: rgb(114, 186, 245);
+}
+
+h1 { 
+    padding-left: 1%;
+}
+
+h3 { 
+    padding-left: 4%;
 }
